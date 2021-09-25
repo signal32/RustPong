@@ -1,0 +1,10 @@
+/*!
+    @import /amethyst_window/src/config.rs#DisplayConfig
+    DisplayConfig
+*/
+(
+    title: "Pong!",
+    icon: Some("res/sprites/LogoWeb.png"),
+    dimensions: Some((1920,1080)),
+    resizable: true
+)
